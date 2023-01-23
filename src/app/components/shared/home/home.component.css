@@ -1,0 +1,15 @@
+.swal2-html-container {
+    z-index: 1 !important;
+    justify-content: center !important;
+    margin: 1em 1.6em 0.3em !important;
+    padding: 0 !important;
+    overflow: auto !important;
+    color: inherit !important;
+    font-size: 1.125em !important;
+    font-weight: normal !important;
+    line-height: normal !important;
+    text-align: center !important;
+    word-wrap: break-word !important;
+    margin-left: 100px !important;
+    word-break: break-word !important;
+}
